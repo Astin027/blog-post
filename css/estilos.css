@@ -5,6 +5,7 @@ body
     color: #923;
     margin: 0;
     padding: 0;
+    background-color: cadetblue;
     
     
 }
@@ -16,5 +17,6 @@ padding: lem ;
 text-align: left;
 border: 1px solid #ddd;
 margin: 0% auto;
+
 
 }
